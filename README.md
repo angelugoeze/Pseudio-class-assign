@@ -1,3 +1,5 @@
 # Pseudio-class-assign
 
-css class pseudio practice        
+css class pseudio practice
+
+**Made by Angela Amanze**
